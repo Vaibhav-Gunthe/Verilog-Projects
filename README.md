@@ -1,7 +1,7 @@
 This repository contains a collection of Verilog-based digital design projects, ranging from fundamental logic gates to complex hardware modules.
 Ideal for learning RTL design, synthesis, and FPGA implementation.
 
-Projects Included
+Projects Included  
 ✔️ Basic Logic Gates  
 ✔️ Multiplexers & Demultiplexers  
 ✔️ Flip-Flops & Registers  
